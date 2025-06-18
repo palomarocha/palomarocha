@@ -9,7 +9,7 @@
 
 ## 🪴 Sobre mim
 
-Desenvolvedora front-end com foco em criar experiências digitais modernas, acessíveis e bem estruturadas. Tenho 20 anos, estudo Engenharia de Software na Unifran e atualmente estou no sexto período da graduação.
+Desenvolvedora front-end com foco em criar experiências digitais modernas, acessíveis e bem estruturadas. Tenho 20 anos, curso Engenharia de Software na Unifran e atualmente estou no sexto período da graduação.
 
 Amo transformar ideias em interfaces funcionais e responsivas, buscando sempre unir design com código de forma harmoniosa. Estou sempre explorando novas formas de entregar soluções criativas com HTML, CSS, JavaScript e React.
 
