@@ -40,6 +40,6 @@ Busco sempre aprender algo novo e me envolver com a comunidade tech.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palomarocha&show_icons=true&theme=gruvbox&title_color=86efac&icon_color=6ee7b7&text_color=ffffff&bg_color=111827" alt="Paloma GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=palomarocha&show_icons=true&theme=gruvbox&title_color=86efac&icon_color=6ee7b7&text_color=ffffff&bg_color=02731E" alt="Paloma GitHub stats">
 </p>
 
