@@ -13,10 +13,16 @@ Desenvolvedora front-end com foco em criar experiências digitais modernas, aces
 
 Amo transformar ideias em interfaces funcionais e responsivas, buscando sempre unir design com código de forma harmoniosa. Estou sempre explorando novas formas de entregar soluções criativas com HTML, CSS, JavaScript e React.
 
-Trabalho com tecnologias como:
-- 🌐 HTML5, CSS3, JavaScript.
-- ⚛️ React.
-- 🎨 Figma e Illustrator (para transformar interfaces em experiências reais)
+## 🌿 Tecnologias que uso
+
+<p>
+  <img src="https://img.icons8.com/fluency/48/html-5.png" alt="HTML5" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/css3.png" alt="CSS3" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/javascript.png" alt="JavaScript" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/react.png" alt="React" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/figma.png" alt="Figma" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/adobe-illustrator.png" alt="Illustrator" width="40"/>
+</p>
 
 Busco sempre aprender algo novo e me envolver com a comunidade tech.
 
