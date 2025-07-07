@@ -19,7 +19,7 @@ Amo transformar ideias em interfaces funcionais e responsivas, buscando sempre u
   <img src="https://img.icons8.com/fluency/48/html-5.png" alt="HTML5" width="40"/>
   <img src="https://img.icons8.com/fluency/48/css3.png" alt="CSS3" width="40"/>
   <img src="https://img.icons8.com/fluency/48/javascript.png" alt="JavaScript" width="40"/>
-  <img src="https://img.icons8.com/fluency/48/react.png" alt="React" width="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="React" width="40"/>
   <img src="https://img.icons8.com/fluency/48/figma.png" alt="Figma" width="40"/>
   <img src="https://img.icons8.com/fluency/48/adobe-illustrator.png" alt="Illustrator" width="40"/>
 </p>
