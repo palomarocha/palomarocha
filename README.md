@@ -32,7 +32,7 @@ Busco sempre aprender algo novo e me envolver com a comunidade tech.
 
 - [Portfólio](https://palomarocha.github.io/palomarocha-Meu-Portifolio/) – Meu portfólio pessoal com alguns dos projetos que desenvolvi.
 - [Vantaro](https://github.com/palomarocha/Vantaro)  – site voltado para cadastro e gerenciamento de carros
-- [Glimmer](https://github.com/palomarocha/landing-page-makeup) – Projeto sobre uma landing page projetada para uma loja de maquiagem.
+- [Encanto do Paladar](https://encanto-do-paladar.vercel.app/) – Sistema digital para facilitar uma loja de condimentos.
 
 ---
 
