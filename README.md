@@ -31,7 +31,7 @@ Busco sempre aprender algo novo e me envolver com a comunidade tech.
 ## ✨ Projetos em destaque
 
 - [Portfólio](https://palomarocha.github.io/palomarocha-Meu-Portifolio/) – Meu portfólio pessoal com alguns dos projetos que desenvolvi.
-- [Vantaro](https://github.com/palomarocha/Vantaro)  – site voltado para cadastro e gerenciamento de carros
+- [Vantaro](https://palomarocha.github.io/Vantaro/)  – site voltado para cadastro e gerenciamento de carros
 - [Encanto do Paladar](https://encanto-do-paladar.vercel.app/) – Sistema digital para facilitar uma loja de condimentos.
 
 ---
