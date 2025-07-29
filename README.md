@@ -33,7 +33,7 @@ Busco sempre aprender algo novo e me envolver com a comunidade tech.
 - [Portfólio](https://palomarocha.github.io/palomarocha-Meu-Portifolio/) – Meu portfólio pessoal com alguns dos projetos que desenvolvi.
 - [Vantaro](https://palomarocha.github.io/Vantaro/)  – site voltado para cadastro e gerenciamento de carros
 - [Encanto do Paladar](https://encanto-do-paladar.vercel.app/) – Sistema digital para facilitar uma loja de condimentos.
-- [Quiz + Redação](quiz-e-redacao.vercel.app) – Quiz e redação para facilitar a vida dos estudantes da área da educação para concursos.
+- [Quiz + Redação](https://quiz-e-redacao.vercel.app/) – Quiz e redação para facilitar a vida dos estudantes da área da educação para concursos.
 ---
 
 ## 📫 Vamos nos conectar?
